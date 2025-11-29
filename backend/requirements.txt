@@ -1,9 +1,25 @@
 fastapi
 uvicorn[standard]
-pydantic
+python-multipart
+
+# LLM + API
+openai>=1.0.0
 requests
 beautifulsoup4
+trafilatura
+wikipedia-api
+youtube-transcript-api
+
+# PPT Generation
 python-pptx
-openai
-python-dotenv
+Pillow
+
+# Charts
 matplotlib
+numpy
+
+# WebSockets
+websockets
+
+# Utils
+python-dotenv

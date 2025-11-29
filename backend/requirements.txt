@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+beautifulsoup4
+python-pptx
+openai
+python-dotenv
+matplotlib

@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f5f6fa;
+  font-family: Arial, sans-serif;
+}
+
+.home {
+  width: 60%;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.input-box input {
+  width: 70%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+.input-box button {
+  padding: 12px 20px;
+  margin-left: 10px;
+  background: #0066ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.output-box {
+  margin-top: 30px;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.download-btn {
+  padding: 12px 20px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.loader {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #555;
+}
